@@ -318,6 +318,7 @@ section#projects {
       } */
   
     section#home {
+      padding-top: 150px;
       flex-direction: column-reverse;
       justify-content: center;
     }
